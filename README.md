@@ -137,6 +137,8 @@ hms=sns.heatmap(data=data,annot=True)
 ```
 sns.heatmap(corr,annot=True,cmap='coolwarm')
 ```
+![image](https://github.com/user-attachments/assets/1cdd8350-531d-4ea7-a262-3389ea5408a8)
+
 
 # Result:
- Include your result here
+Thus all the data visualization techiniques of seaborn has been executed
